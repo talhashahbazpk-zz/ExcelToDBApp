@@ -1,0 +1,9 @@
+E:\ExcelToDBApp\ExcelToDBAppDBLib\bin\Debug\ExcelToDBAppDBLib.dll
+E:\ExcelToDBApp\ExcelToDBAppDBLib\bin\Debug\ExcelToDBAppDBLib.pdb
+E:\ExcelToDBApp\ExcelToDBAppDBLib\obj\Debug\ExcelToDBAppDBLib.dll
+E:\ExcelToDBApp\ExcelToDBAppDBLib\obj\Debug\ExcelToDBAppDBLib.pdb
+E:\ExcelToDBApp\ExcelToDBAppDBLib\bin\Debug\ExcelToDBAppModel.dll
+E:\ExcelToDBApp\ExcelToDBAppDBLib\bin\Debug\ExcelToDBAppModel.pdb
+E:\ExcelToDBApp\ExcelToDBAppDBLib\obj\Debug\ExcelToDBAppDBLib.csproj.AssemblyReference.cache
+E:\ExcelToDBApp\ExcelToDBAppDBLib\obj\Debug\ExcelToDBAppDBLib.csproj.CoreCompileInputs.cache
+E:\ExcelToDBApp\ExcelToDBAppDBLib\obj\Debug\ExcelToDBAppDBLib.csproj.CopyComplete
